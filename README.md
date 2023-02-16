@@ -1,9 +1,10 @@
 fairpy is a library for fair division algorithms, founded by my lecturer Erel Segal Halevi.
 During the course we chose an article, summarized it, programmed it and built a website to use it.
 Attached are links to the article, the algorithm itself and the website.
+
 article - https://arxiv.org/abs/2003.08125
 algorithm - https://github.com/eitansh28/fairpy/blob/master/fairpy/items/envy_freeness_and_equitability_with_payments.py
-website - http://157.230.22.122:5200
+website - http://157.230.22.122:5200/
 
 A detailed explanation of the library itself is below.
 
